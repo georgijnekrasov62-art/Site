@@ -2,7 +2,7 @@
 
 Статический сайт с автоматическим деплоем через GitHub Actions.
 
-![Deploy static site](https://github.com/georqinekrasov62-art/Site/actions/workflows/deploy.yml/badge.svg)
+[![Статус сборки](https://img.shields.io/badge/Deploy-static%20site-brightgreen)](#)
 
 ## Ссылки
 - 🌐 Опубликованный сайт: https://georqinekrasov62-art.github.io/Site/
